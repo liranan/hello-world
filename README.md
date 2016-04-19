@@ -1,5 +1,2 @@
 # hello-world
-
-Hi,Humans!
-
-死亡如风！
+Just another repository
