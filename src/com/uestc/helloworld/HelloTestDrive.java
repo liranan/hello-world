@@ -9,13 +9,10 @@ package com.uestc.helloworld;
  *
  * @author Liranan
  */
-public class HelloWorld {
+public class HelloTestDrive {
 
-    /**
-     * @param args the command line arguments
-     */
-    public String toString() {
-        return "Hello World!";
+    public static void main(String[] args) {
+        HelloWorld helloWorld = new HelloWorld();
+        System.out.println(helloWorld);
     }
-
 }
